@@ -11,8 +11,8 @@ Outputs contain data that are modified from the input data.
 
 Scripts contain R scripts that take inputs and outputs to produce outputs. Scripts also contain the R scripts that we built our model.
 
--01-data_cleaning-survey.R
+-[01-data_cleaning-survey.R](https://github.com/SiyuanTao824/STA304-PS3/blob/main/scripts/01-data_cleaning-survey.R)
 
--02-data_cleaning-post-strat.R
+-[02-data_cleaning-post-strat.R](https://github.com/SiyuanTao824/STA304-PS3/blob/main/scripts/02-data_cleaning-post-strat.R)
 
--03-ProblemSet3-siyuan-tao.Rmd
+-[03-ProblemSet3-siyuan-tao.Rmd](https://github.com/SiyuanTao824/STA304-PS3/blob/main/scripts/03-ProblemSet3-siyuan-tao.Rmd)
